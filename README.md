@@ -1,4 +1,5 @@
 **Comprehensive-SQL-Notes**
+
 This repository is a collection of topic-wise, detailed notes on SQL concepts, commands, and functionality. It is designed to provide a clear and concise understanding of SQL for learners at all levels, from beginners to professionals.
 
 **Key Features:**
